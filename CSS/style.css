@@ -189,7 +189,7 @@ body {
 /* sidebar section */
 
 .photo {
-    padding-left: 25px;
+    padding-left: 12px;
 }
 
 .sidebar-section {
@@ -228,5 +228,6 @@ body {
     font-size: 14px;
     line-height: 24px;
 }
+
 
 
